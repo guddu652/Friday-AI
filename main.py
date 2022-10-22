@@ -2,7 +2,7 @@ import time #This module provides various functions to manipulate time values
 
 import smtplib #defines an SMTP (Simple Mail Transfer Protocol) client session object that can be used to send mail to any Internet machine with an SMTP
 
-import random #The random module gives access to various useful functions and one of them being able to generate random numbers, which is randint()
+import random #The random module gives access to various useful functions and one of them being able to generate random numbers, which is 'randint()'
 
 import os #The OS module in Python provides functions for interacting with the operating system
 
